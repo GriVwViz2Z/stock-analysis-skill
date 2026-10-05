@@ -1,0 +1,7 @@
+interface:
+  display_name: "上市公司研究与估值"
+  short_description: "按商业模式、行业、财务与定价研究 A/H/美股"
+  default_prompt: "使用 $stock-analysis 研究这家公司如何赚钱、行业变化如何反映到财务，以及当前市场定价隐含什么预期。"
+
+policy:
+  allow_implicit_invocation: true
