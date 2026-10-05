@@ -25,7 +25,6 @@
 
 ![微信打赏](../assets/sponsor/wechat-pay.png)
 
-![支付宝打赏](../assets/sponsor/alipay.png)
 
 > 建议：上传前检查二维码图片，不要暴露手机号、真实姓名、账户余额等敏感信息。
 

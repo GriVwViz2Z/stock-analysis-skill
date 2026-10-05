@@ -1,27 +1,25 @@
 {
   "name": "stock-analysis",
-  "version": "2.0.0",
-  "description": "面向 AI Agent 的专业个股投研 Skill：五步法、财务排雷、市值倒推、关键因子跟踪和反证清单",
+  "version": "3.0.0",
+  "description": "A/H/US listed-company research skill covering business model, industry transmission, financial quality, valuation, implied expectations, risks, and falsification.",
   "scripts": {
-    "check": "echo \"Markdown-only skill package: inspect SKILL.md, templates, references, and examples.\""
+    "check": "echo \"Markdown-only skill package: validate SKILL.md, agents, templates, references, examples, and links.\""
   },
   "keywords": [
     "stock",
     "analysis",
-    "finance",
-    "investment",
-    "ai-agent",
-    "skill",
     "valuation",
     "financial-analysis",
-    "a-share"
+    "a-share",
+    "hong-kong-stock",
+    "us-stock"
   ],
-  "author": "川神",
+  "author": "虎哥",
   "license": "MIT",
   "dependencies": {},
   "openclaw": {
     "name": "stock-analysis",
-    "description": "股票五步法分析 + 财务排雷 + 市值倒推 + 关键因子跟踪",
-    "version": "2.0.0"
+    "description": "上市公司商业模式、行业传导、财务质量与隐含预期研究",
+    "version": "3.0.0"
   }
 }
